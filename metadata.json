@@ -1,0 +1,5 @@
+{
+  "name": "Document Summary Assistant Final",
+  "description": "An intelligent web application that allows users to upload PDF or image documents, extracts the text, and generates concise, medium, or detailed summaries using the Gemini API. Features include a clean drag-and-drop interface, multiple summary length options, and a structured output with key points and main ideas.",
+  "requestFramePermissions": []
+}
